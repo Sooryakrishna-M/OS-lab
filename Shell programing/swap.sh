@@ -1,6 +1,6 @@
-echo -n "Enter the value for A"
+echo -n "Enter the value for A :"
 read a
-echo -n "Enter the value for B"
+echo -n "Enter the value for B :"
 read b
 t=$a a=$b b=$t
 echo "Value after swapping"
