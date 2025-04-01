@@ -5,6 +5,7 @@ echo "2.Substraction"
 echo "3.Multiplication"
 echo "4.Division"
 echo "5.Modulo Division"
+echo Enter the option
 read option
 case $option in 
 1)c=`expr $a + $b`
