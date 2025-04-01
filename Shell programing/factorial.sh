@@ -1,7 +1,6 @@
 echo Enter a Number
 read n
 i=`expr $n - 1`
-
 while [ $i -ge 1 ]
 do 
 n=`expr $n \* $i`
