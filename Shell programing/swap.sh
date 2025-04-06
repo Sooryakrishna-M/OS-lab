@@ -5,4 +5,4 @@ read b
 t=$a a=$b b=$t
 echo "Value after swapping"
 echo "A value is $a"
-echo "B value is $b"
+echo "B value is $b";
