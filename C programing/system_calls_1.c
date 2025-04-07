@@ -4,7 +4,7 @@
 
 struct dirent *dptr;
 
-int main(int argc, char *argv[]) {
+int main() {
     char buff[100];
     DIR *dirp;
 
