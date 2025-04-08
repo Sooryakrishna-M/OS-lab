@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
 
@@ -19,4 +19,4 @@ int main(){
         pid2=getpid();
         printf("\n the child process ID is %d \n",pid2);
     }
-}
+}*/
